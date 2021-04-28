@@ -1,5 +1,5 @@
 FROM golang:alpine
-MAINTAINER Sam Wierema <mail@samwierema.nl>
+MAINTAINER Iwan Buetti <iwan.buetti@gmail.com>
 
 
 # Set necessary environmet variables needed for our image
